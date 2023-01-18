@@ -1,6 +1,7 @@
 
 #LIBRERIAS--------
 rm(list = ls())
+#prueba 
 library(cleangeo)
 library(deldir)
 library(dplyr)
