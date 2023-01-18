@@ -2,7 +2,10 @@
 #LIBRERIAS--------
 rm(list = ls())
 #prueba 
+library(shiny)
+#uno
 library(cleangeo)
+#dos
 library(deldir)
 library(dplyr)
 library(foreign)
