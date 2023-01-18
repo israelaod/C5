@@ -7,6 +7,7 @@ library(shiny)
 library(cleangeo)
 #dos
 library(deldir)
+#tres
 library(dplyr)
 library(foreign)
 library(ggmap) 
