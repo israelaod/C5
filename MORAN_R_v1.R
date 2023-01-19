@@ -34,6 +34,7 @@ library(maptools)
 library(GISTools)
 library(plotly)
 library(rgeoda)
+#hola
 
 
 setwd("C:/Users/iosoriod/Desktop/ARCHIVOS_C5/MORAN_SPEARMAN/")
